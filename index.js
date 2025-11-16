@@ -13,9 +13,3 @@ app.get("/", (req, res) => {
     res.send("<h1>Testing the server</h1>");
 });
 
-//name, email, password, DOB
-//api/register
-
-
-// https://www.youtube.com/watch?v=JCgxEs2lUDo&list=PLgH5QX0i9K3r6ZGeyFnSv_YDxVON2P85m&index=34 12.00
-// https://express-validator.github.io/docs/
